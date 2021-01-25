@@ -16,22 +16,22 @@ function App() {
         <
         Switch >
         <
-        Route exact path = '/' >
+        Route exact path = '/SentinumApp' >
         <
         Home / >
         <
         /Route>{" "} <
-        Route path = '/aboutus' >
+        Route path = '/SentinumApp/aboutus' >
         <
         About / >
         <
         /Route>{" "} <
-        Route path = '/contactus' >
+        Route path = '/SentinumApp/contactus' >
         <
         Contact / >
         <
         /Route>{" "} <
-        Route path = '/privacypolicy' >
+        Route path = '/SentinumApp/privacypolicy' >
         <
         Privacy / >
         <

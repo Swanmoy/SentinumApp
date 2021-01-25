@@ -1,17 +1,17 @@
 export const NavbarData = [{
         name: "Home",
-        path: "/",
+        path: "/SentinumApp",
     },
     {
         name: "About",
-        path: "/aboutus",
+        path: "/SentinumApp/aboutus",
     },
     {
         name: "Contact",
-        path: "/contactus",
+        path: "/SentinumApp/contactus",
     },
     {
         name: "Privacy",
-        path: "/privacypolicy",
+        path: "/SentinumApp/privacypolicy",
     },
 ];
