@@ -1,5 +1,3 @@
-import React from "react";
-
 export const NavbarData = [{
         name: "Home",
         path: "/",
