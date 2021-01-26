@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SentinumApp/static/css/main.aecf62bf.chunk.css",
-    "main.js": "/SentinumApp/static/js/main.3b56762c.chunk.js",
-    "main.js.map": "/SentinumApp/static/js/main.3b56762c.chunk.js.map",
+    "main.js": "/SentinumApp/static/js/main.20efcb7c.chunk.js",
+    "main.js.map": "/SentinumApp/static/js/main.20efcb7c.chunk.js.map",
     "runtime-main.js": "/SentinumApp/static/js/runtime-main.af59c9b5.js",
     "runtime-main.js.map": "/SentinumApp/static/js/runtime-main.af59c9b5.js.map",
     "static/js/2.bad3c045.chunk.js": "/SentinumApp/static/js/2.bad3c045.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.af59c9b5.js",
     "static/js/2.bad3c045.chunk.js",
     "static/css/main.aecf62bf.chunk.css",
-    "static/js/main.3b56762c.chunk.js"
+    "static/js/main.20efcb7c.chunk.js"
   ]
 }
