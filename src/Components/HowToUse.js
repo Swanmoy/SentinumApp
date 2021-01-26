@@ -2,10 +2,10 @@ import React from "react";
 
 function How() {
     return ( <
-        div >
+        >
         <
-        h4 > Contact us < /h4>{" "} <
-        /div>
+        h4 > How to Use < /h4> <
+        />
     );
 }
 

@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap");
+#logo-container {
+    width: 100%;
+    height: 20%;
+    margin-top: 75px;
+    z-index: -1;
+}
+
+#logo {
+    display: block;
+    max-width: 150px;
+    height: auto;
+    margin: auto;
+}
+
+#about {
+    display: block;
+    height: auto;
+    max-width: 60%;
+    margin: 75px auto;
+    z-index: -1;
+}
+
+#about-text {
+    display: block;
+    font-size: 24px;
+    line-height: 1.4;
+    font-family: "Cormorant Garamond", serif;
+    text-align: center;
+    justify-content: center;
+    color: rgb(59, 59, 59);
+}

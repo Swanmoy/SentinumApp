@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Home from "./Components/HomePage";
-import About from "./Components/HowToUse.js";
+import How from "./Components/HowToUse.js";
 import Contact from "./Components/ContactUs";
 import Privacy from "./Components/PrivacyPolicy.js";
 import { ApiTest } from "./Components/ApiTest";
@@ -24,7 +24,7 @@ function App() {
         /Route>{" "} <
         Route path = '/SentinumApp/howtouse' >
         <
-        About / >
+        How / >
         <
         /Route>{" "} <
         Route path = '/SentinumApp/contactus' >
