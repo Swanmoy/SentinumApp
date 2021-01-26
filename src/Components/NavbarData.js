@@ -1,9 +1,15 @@
 import * as FaIcons from "react-icons/fa";
 import * as AiIcons from "react-icons/ai";
+import * as FcIcons from "react-icons/fc";
 export const NavbarData = [{
         name: "Home",
         path: "/SentinumApp",
         icon: < AiIcons.AiFillHome className = 'nav-text-icons' / > ,
+    },
+    {
+        name: "About Us",
+        path: "/SentinumApp/aboutus",
+        icon: < FcIcons.FcAbout className = 'nav-text-icons' / > ,
     },
     {
         name: "How to Use?",

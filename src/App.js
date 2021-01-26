@@ -5,6 +5,7 @@ import How from "./Components/HowToUse.js";
 import Contact from "./Components/ContactUs";
 import Privacy from "./Components/PrivacyPolicy.js";
 import { ApiTest } from "./Components/ApiTest";
+import About from "./Components/About";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -22,6 +23,11 @@ function App() {
         Home / >
         <
         /Route>{" "} <
+        Route path = '/SentinumApp/aboutus' >
+        <
+        About / >
+        <
+        /Route> <
         Route path = '/SentinumApp/howtouse' >
         <
         How / >
