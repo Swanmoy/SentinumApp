@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/SentinumApp/static/css/main.61cac907.chunk.css",
-    "main.js": "/SentinumApp/static/js/main.7b165bdb.chunk.js",
-    "main.js.map": "/SentinumApp/static/js/main.7b165bdb.chunk.js.map",
+    "main.css": "/SentinumApp/static/css/main.95b2cad5.chunk.css",
+    "main.js": "/SentinumApp/static/js/main.19ede485.chunk.js",
+    "main.js.map": "/SentinumApp/static/js/main.19ede485.chunk.js.map",
     "runtime-main.js": "/SentinumApp/static/js/runtime-main.af59c9b5.js",
     "runtime-main.js.map": "/SentinumApp/static/js/runtime-main.af59c9b5.js.map",
-    "static/js/2.ce5d4a47.chunk.js": "/SentinumApp/static/js/2.ce5d4a47.chunk.js",
-    "static/js/2.ce5d4a47.chunk.js.map": "/SentinumApp/static/js/2.ce5d4a47.chunk.js.map",
+    "static/js/2.70812e7d.chunk.js": "/SentinumApp/static/js/2.70812e7d.chunk.js",
+    "static/js/2.70812e7d.chunk.js.map": "/SentinumApp/static/js/2.70812e7d.chunk.js.map",
     "index.html": "/SentinumApp/index.html",
-    "static/css/main.61cac907.chunk.css.map": "/SentinumApp/static/css/main.61cac907.chunk.css.map",
-    "static/js/2.ce5d4a47.chunk.js.LICENSE.txt": "/SentinumApp/static/js/2.ce5d4a47.chunk.js.LICENSE.txt"
+    "static/css/main.95b2cad5.chunk.css.map": "/SentinumApp/static/css/main.95b2cad5.chunk.css.map",
+    "static/js/2.70812e7d.chunk.js.LICENSE.txt": "/SentinumApp/static/js/2.70812e7d.chunk.js.LICENSE.txt",
+    "static/media/Sentinum_logo.fc40607c.png": "/SentinumApp/static/media/Sentinum_logo.fc40607c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.af59c9b5.js",
-    "static/js/2.ce5d4a47.chunk.js",
-    "static/css/main.61cac907.chunk.css",
-    "static/js/main.7b165bdb.chunk.js"
+    "static/js/2.70812e7d.chunk.js",
+    "static/css/main.95b2cad5.chunk.css",
+    "static/js/main.19ede485.chunk.js"
   ]
 }
