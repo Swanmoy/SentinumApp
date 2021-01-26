@@ -4,7 +4,7 @@ function About() {
     return ( <
         >
         <
-        h4 > About Us.Under Development < /h4>{" "} <
+        h4 > About Us.This is about us page. < /h4>{" "} <
         />
     );
 }
