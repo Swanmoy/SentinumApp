@@ -1,6 +1,6 @@
 import React from "react";
 
-function About() {
+function How() {
     return ( <
         div >
         <
@@ -9,4 +9,4 @@ function About() {
     );
 }
 
-export default About;
+export default How;

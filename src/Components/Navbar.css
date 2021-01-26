@@ -45,6 +45,10 @@
     height: 60px;
 }
 
+.nav-text-icons {
+    margin: 10px;
+}
+
 .nav-text a {
     text-decoration: none;
     color: #f5f5f5;
@@ -55,10 +59,12 @@
     align-items: center;
     padding: 0 16px;
     border-radius: 4px;
+    transition: 150ms;
 }
 
 .nav-text a:hover {
     background-color: #1a83ff;
+    font-size: 20px;
 }
 
 .nav-menu-items {
