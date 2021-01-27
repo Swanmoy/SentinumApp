@@ -25,6 +25,12 @@ function HomePage() {
         /p>{" "} <
         /div>{" "} <
         /section>{" "} <
+        div id = 'icon-container' >
+        <
+        div id = 'cnt1' > First < /div> <
+        div id = 'cnt2' > Second < /div> <
+        div id = 'cnt3' > Third < /div> <
+        /div> <
         />
     );
 }
