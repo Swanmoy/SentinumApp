@@ -13,7 +13,7 @@ function Navbar() {
             li key = { index }
             className = 'nav-text' >
             <
-            Link to = { item.path } > { " " } { item.name } { item.icon } <
+            Link to = { item.path } > { " " } { item.name } { item.icon } { " " } <
             /Link>{" "} <
             /li>
         );

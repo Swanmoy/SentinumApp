@@ -34,35 +34,86 @@
 #icon-container {
     display: grid;
     height: auto;
+    margin: 50px 100px 0px 100px;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
     grid-template-rows: 1fr;
     grid-template-areas: "content1 content2 content3";
+}
+
+#shead {
+    text-align: center;
 }
 
 #cnt1 {
     grid-area: content1;
     height: 200px;
     text-align: center;
-    background-color: red;
+}
+
+#cnt1 p {
+    color: rgb(27, 105, 223);
+    font-size: 20px;
+    margin-top: 20px;
 }
 
 #cnt2 {
     grid-area: content2;
+    text-align: center;
     height: 200px;
-    background-color: yellow;
+}
+
+#cnt2 p {
+    color: rgb(27, 105, 223);
+    font-size: 20px;
+    margin-top: 20px;
 }
 
 #cnt3 {
     grid-area: content3;
+    text-align: center;
     height: 200px;
-    background-color: blue;
 }
 
-@media only screen and (max-width: 600px) {
+#cnt3 p {
+    color: rgb(27, 105, 223);
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#cnt1:hover .socialicons {
+    transform: scale(1.2, 1.2);
+}
+
+#cnt1:hover p {
+    text-decoration: underline;
+}
+
+#cnt2:hover .socialicons {
+    transform: scale(1.2, 1.2);
+}
+
+#cnt2:hover p {
+    text-decoration: underline;
+}
+
+#cnt3:hover .socialicons {
+    transform: scale(1.2, 1.2);
+}
+
+#cnt3:hover p {
+    text-decoration: underline;
+}
+
+.socialicons {
+    font-size: 100px;
+}
+
+@media only screen and (max-width: 768px) {
     #icon-container {
         display: grid;
-        background-color: pink;
         height: auto;
+        grid-gap: 10px;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         grid-template-areas: "content1" "content2" "content3";
@@ -70,16 +121,13 @@
     #cnt1 {
         grid-area: content1;
         height: 100px;
-        background-color: red;
     }
     #cnt2 {
         grid-area: content2;
         height: 100px;
-        background-color: yellow;
     }
     #cnt3 {
         grid-area: content3;
         height: 100px;
-        background-color: blue;
     }
 }
